@@ -1,0 +1,44 @@
+Sequence #: NM_175614 
+Start=83 End=508
+loaded 575 nucleotides, cds_start 83 to cds_end 508
+
+Energy 1: -27.290000: Start=6 S1=5 S2=6 L1=3 L2=19 L3=0 End=49
+
+                    CTGCCCTTGCGCTTCCCGA       ATA
+
+                    GGCGC    CGACCG
+
+               AAGTCTCGCG    GCTGGCGG
+
+
+Energy 2: -22.075000: Start=224 S1=5 S2=7 L1=9 L2=21 L3=0 End=277
+
+                    TGGACAATACACGTTCACTGC       CCTTGAAGG
+
+                    TGGAA    TCGGTGA
+
+TCACACTCAATCCTCCGGGCACCTT    AGCTGCTGT
+
+Found #1 stem loop within loop2: S3=5 AL=7 L2_tail=4 loop2(250-269) cds_start=83
+(TGGAC)AATACAC(GTTCA)CTGC
+
+
+Energy 3: -21.720000: Start=52 S1=9 S2=5 L1=8 L2=15 L3=0 End=102
+
+                    ATGGCGCCGAAGGTT       TGCGGGAT
+
+                    TCGGGCGTT    AGAGC
+
+TGCGCTTCCCGAGCTGGCGGGGTCCGTGG    TTTCGTC
+
+
+Energy 4: -21.330000: Start=12 S1=5 S2=5 L1=1 L2=29 L3=0 End=61
+
+                    CCCTTGCGCTTCCCGAGCTGGCGGGGTCC       A
+
+                    GTCGG    CGCCG
+
+         AAGTCTCGCGATAGCC    GTGGTGC
+
+Time taken to run: 0 seconds 0 milliseconds
+-------------------------------------------------
