@@ -1,1 +1,2 @@
-To do....
+The PKscan program is a computational tool designed to predict pseudoknots in RNA sequences.Pseudoknots are complex RNA secondary structures formed when bases in a loop pair with a complementary sequence outside the loop, and they play important biological roles (e.g., in ribosomal frameshifting, viral replication, and gene expression regulation).
+This PKscan program analyzes RNA sequences from input files and extracts pseudoknot information, including energy values, Start/end positions of pseudoknot, lengths of loops and stems and base-pairing diagram. It supports multiple input formats and generates summary outputs useful for RNA structure prediction and analysis.
